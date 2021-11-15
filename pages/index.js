@@ -40,7 +40,7 @@ export default function Home(initialData) {
           title="DIGITAL SHOWROOM | L52 COMMUNICATIONS"
           openGraph={{
             url: 'https://digitalshowroom.l52.world/',
-            title: 'DIGITAL SHOWROOM | L52 COMMUNICATIONS',
+            title: 'Seekers Exchange | Leisure Cooperative',
             images: [
               {
                 url: 'https://digitalshowroom.l52.world/static/social.jpg',

@@ -39,7 +39,7 @@ export default function SignIn({ csrfToken }) {
           </div>
 
           <span className="block uppercase text-xs md:text-sm mb-12">
-            Digital Showroom
+            Beta Platform
           </span>
 
           <div className="w-full text-center text-white relative z-10">
@@ -63,7 +63,7 @@ export default function SignIn({ csrfToken }) {
           
             <button type='submit' className="text-white px-8 md:px-12 py-2 md:py-2 uppercase border border-white hover:border-white focus:border-white transition ease-in-out duration-300 text-base hover:bg-white focus:bg-white hover:text-black focus:text-black">Sign in</button>
 
-            <a href="mailto:TalkToUs@L52.co.uk?subject=Digital Showroom Enquiry"  className="text-white py-2 md:py-2 transition ease-in-out duration-300 text-sm mt-3 hover:opacity-50 focus:opacity-50 block uppercase">Request Access</a>
+            <a href="https://8lqyuucfjae.typeform.com/to/m1pPcmt4?typeform-source=leisure.coop"  className="text-white py-2 md:py-2 transition ease-in-out duration-300 text-sm mt-3 hover:opacity-50 focus:opacity-50 block uppercase">Request Access</a>
           </form>
         </div>
         </div>
