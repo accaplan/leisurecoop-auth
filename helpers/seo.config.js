@@ -1,9 +1,9 @@
 export default {
-  defaultTitle: 'DIGITAL SHOWROOM | L52 COMMUNICATIONS',
+  defaultTitle: 'Sharing Platform | Leisure Cooperative',
   openGraph: {
     type: 'website',
-    locale: 'en_GB',
-    url: 'https://digitalshowroom.l52.world/',
+    locale: 'en_CH',
+    url: 'https://beta.leisure.coop/',
     site_name: 'SiteName',
   },
   twitter: {

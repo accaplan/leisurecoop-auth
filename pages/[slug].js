@@ -45,7 +45,7 @@ export default function ClientSlug(initialData) {
     return (
       <>
       <NextSeo
-        title="DIGITAL SHOWROOM | L52 COMMUNICATIONS"
+        title="Sharing Platform | Leisure Cooperative"
         openGraph={{
           url: 'https://digitalshowroom.l52.world/',
           title: 'DIGITAL SHOWROOM | L52 COMMUNICATIONS',
@@ -78,10 +78,10 @@ export default function ClientSlug(initialData) {
   return (
     <Layout>
       <NextSeo
-        title={`${title.toUpperCase()} | | L52 COMMUNICATIONS`}
+        title={`${title.toUpperCase()} | | Leisure Cooperative`}
         openGraph={{
-          url: 'https://digitalshowroom.l52.world/',
-          title: `${title.toUpperCase()} | L52 COMMUNICATIONS`,
+          url: 'https://beta.leisure.coop/',
+          title: `${title.toUpperCase()} | Leisure Cooperative`,
           images: [
             {
               url: 'https://digitalshowroom.l52.world/static/social.jpg',
