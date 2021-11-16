@@ -122,7 +122,7 @@ export default function Home(initialData) {
               </div>
 
               <span className="block uppercase text-xs md:text-sm mb-12">
-                Digital Showroom
+                Sharing Platform
               </span>
 
               <a href={'/auth/signin'} className="text-white px-8 md:px-12 py-2 md:py-2 uppercase border border-white hover:border-white focus:border-white transition ease-in-out duration-300 text-base hover:bg-white focus:bg-white hover:text-black focus:text-black">Sign in</a>

@@ -21,7 +21,7 @@ export default function Header({ indexActive }) {
       <div className="flex flex-wrap items-start">
         <div className="w-auto">
           <span className="block uppercase text-xs md:text-sm">
-            Digital Showroom
+            Sharing Platform
           </span>
         </div>
 
