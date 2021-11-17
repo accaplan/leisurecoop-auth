@@ -32,7 +32,7 @@ export default function Header({ indexActive }) {
             </a>
           </Link> */}
 
-          <FancyLinkInternal destination={`/`} label="Brands" fast active={indexActive} />
+          <FancyLinkInternal destination={`https://leisure.coop`} label="LEISURE.COOP" fast active={indexActive} />
         </div>
       </div>
     </header>
