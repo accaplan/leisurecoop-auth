@@ -63,7 +63,7 @@ export default function SignIn({ csrfToken }) {
           
             <button type='submit' className="text-white px-8 md:px-12 py-2 md:py-2 uppercase border border-white hover:border-white focus:border-white transition ease-in-out duration-300 text-base hover:bg-white focus:bg-white hover:text-black focus:text-black">Sign in</button>
 
-            <a href="https://8lqyuucfjae.typeform.com/to/m1pPcmt4?typeform-source=leisure.coop"  className="text-white py-2 md:py-2 transition ease-in-out duration-300 text-sm mt-3 hover:opacity-50 focus:opacity-50 block uppercase">Request Access</a>
+            <a href="membershop@leisure.coop?subject=Forgot my Login Info"  className="text-white py-2 md:py-2 transition ease-in-out duration-300 text-sm mt-3 hover:opacity-50 focus:opacity-50 block uppercase">Need Help?</a>
           </form>
         </div>
         </div>
