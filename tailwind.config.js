@@ -4,8 +4,8 @@ module.exports = {
   darkMode: false,
   theme: {
     fontFamily: {
-      'sans': ['Circular', 'Arial', 'sans-serif'],
-      'mono': ['Space Mono', 'Arial', 'sans-serif'],
+      'sans': ['Helvetica', 'sans-serif'],
+      'mono': ['Courier New', 'Arial', 'sans-serif'],
     },
     screens: {
       sm: "640px",
