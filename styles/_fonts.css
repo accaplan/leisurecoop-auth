@@ -1,16 +1,15 @@
 @font-face {
-  font-family: 'Circular';
-  src: url('../public/fonts/CircularStd-Book.woff2') format('woff2'),
-      url('../public/fonts/CircularStd-Book.woff') format('woff');
+  font-family: 'SelectricMono';
+  src: url('../public/fonts/SelectricMono.woff') format('woff');
+  src: url('../public/fonts/SelectricMono.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Circular';
-  src: url('../public/fonts/CircularStd-Light.woff2') format('woff2'),
-      url('../public/fonts/CircularStd-Light.woff') format('woff');
-  font-weight: 300;
+  font-family: 'SelectricRoman';
+  src: url('../public/fonts/SelectricRoman.woff') format('woff');
+  src: url('../public/fonts/SelectricRoman.woff2') format('woff2');
   font-style: normal;
   font-display: swap;
 }
