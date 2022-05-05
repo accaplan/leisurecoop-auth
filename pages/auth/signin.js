@@ -30,7 +30,7 @@ export default function SignIn({ csrfToken }) {
             <div className="w-[300px]">
               <Image
                 src={logo}
-                alt="L52 Logo"
+                alt="leisurecoop logo"
                 layout="responsive"
                 className="w-full"
                 priority

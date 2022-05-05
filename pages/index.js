@@ -76,13 +76,13 @@ export default function Home(initialData) {
           title: 'Sharing Platform | Leisure Cooperative',
           images: [
             {
-              url: 'https://digitalshowroom.l52.world/static/social.jpg',
+              url: 'https://beta.leisure.coop/static/social.jpg',
               width: 1200,
               height: 630,
-              alt: 'L52 Logo',
+              alt: 'leisurecoop logo',
             },
           ],
-          site_name: 'L52',
+          site_name: 'Leisure Cooperative',
         }}
         twitter={{
           cardType: 'summary_large_image',
@@ -113,7 +113,7 @@ export default function Home(initialData) {
                 <div className="w-[300px]">
                   <Image
                     src={logo}
-                    alt="L52 Logo"
+                    alt="leisurecoop logo"
                     layout="responsive"
                     className="w-full"
                     priority

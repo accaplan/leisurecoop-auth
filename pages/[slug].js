@@ -87,10 +87,10 @@ export default function ClientSlug(initialData) {
               url: 'https://beta.leisure.coop/static/social.jpg',
               width: 1200,
               height: 630,
-              alt: 'L52 Logo',
+              alt: 'leisurecoop logo',
             },
           ],
-          site_name: 'L52',
+          site_name: 'Leisure Cooperative',
         }}
         twitter={{
           cardType: 'summary_large_image',
@@ -121,7 +121,7 @@ export default function ClientSlug(initialData) {
                 <div className="w-[300px]">
                   <Image
                     src={logo}
-                    alt="L52 Logo"
+                    alt="LeisureCoop"
                     layout="responsive"
                     className="w-full"
                     priority
@@ -181,17 +181,17 @@ export default function ClientSlug(initialData) {
                               )}
                               { item.imagesGoogleDrive && (
                                 <div className="md:ml-6">
-                                  <FancyLink destination={item.imagesGoogleDrive } label="Download Collection" />
+                                  <FancyLink destination={item.imagesGoogleDrive } label="Download Factsheet" />
                                 </div>
                               )}
                               { item.downloadStillLife && (
                                 <div className="md:ml-6">
-                                  <FancyLink destination={item.downloadStillLife } label="Download Still Life" />
+                                  <FancyLink destination={item.downloadStillLife } label="Download Images" />
                                 </div>
                               )}
                               { item.lookbookPdf && (
                                 <div className="md:ml-6">
-                                  <FancyLink destination={item.lookbookPdf.asset.url} label="Download Lookbook" />
+                                  <FancyLink destination={item.lookbookPdf.asset.url} label="Download Info" />
                                 </div>
                               )}
                             </div>

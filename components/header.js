@@ -10,7 +10,7 @@ export default function Header({ indexActive }) {
         <a className="block w-[200px] mb-3 md:mb-2">
           <Image
             src={logo}
-            alt="L52 Logo"
+            alt="leisurecoop logo"
             layout="responsive"
             className="w-full"
             priority

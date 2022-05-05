@@ -152,7 +152,7 @@ class HomeCarousel extends Component {
                       <ImageWrapper
                         className="w-full h-full object-cover object-center"
                         image={this.props.teaser ? item.teaserImage.asset : item.asset}
-                        alt="L52 Logo"
+                        alt="leisurecoop logo"
                         baseWidth={550}
                         baseHeight={900}
                         fill={true}

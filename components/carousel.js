@@ -54,7 +54,7 @@ const Carousel = ({ slides, teaser }) => {
                             <ImageWrapper
                               className="w-full h-full object-cover object-center transition ease-in-out duration-500 md:group-hover:opacity-80"
                               image={teaser ? item.teaserImage.asset : item.asset}
-                              alt="L52 Logo"
+                              alt="leisurecoop logo"
                               baseWidth={1000}
                               baseHeight={1800}
                               priority
@@ -65,7 +65,7 @@ const Carousel = ({ slides, teaser }) => {
                               {/* <ImageWrapper
                                 className="w-full h-full object-cover object-center"
                                 image={teaser ? item.teaserImage.asset : item.asset}
-                                alt="L52 Logo"
+                                alt="leisurecoop logo"
                                 baseWidth={1000}
                                 baseHeight={1800}
                                 fill={true}
